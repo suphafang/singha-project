@@ -53,10 +53,6 @@ body {
     height: 4.5rem;
 }
 
-.content {
-    height: 200vh;
-}
-
 .c-footer {
     background-color: var(--white);
 }
@@ -135,4 +131,8 @@ body {
 .c-footer > div:nth-child(4) a {
     color: var(--white);
     font-weight: bold;
+}
+
+.content {
+    padding-top: 6rem;
 }
